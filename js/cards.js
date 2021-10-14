@@ -1,6 +1,7 @@
-export const cards=()=>{
+export const generar=()=>{
     return [
         {
+            
             name:"one"
         },
         {
@@ -14,9 +15,7 @@ export const cards=()=>{
         },
         {
             name:"five"
-        },
-        {
-            name:"six"
         }
     ]
 }
+
